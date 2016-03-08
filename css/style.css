@@ -109,6 +109,9 @@ button:hover {
 	cursor: pointer;
 }
 /* Three Case Images*/
+ul.devices {
+	list-style: none;
+}
 .cases {
 	background-color: #fff;
 	overflow: hidden;
